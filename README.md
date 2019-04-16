@@ -1,5 +1,6 @@
 # Etail
 Web-based app which can process excel sheets to produce desired processed excel sheets.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 # Getting Started
 Clone the repository or download the zip file
 # Prerequisites
