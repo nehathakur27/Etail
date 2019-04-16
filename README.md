@@ -8,7 +8,7 @@ Clone the repository or download the zip file
 3. Xampp Server
 3.Database (MySQL/MariaDB or PostgreSQL)
 # Installing
-Use [composer] (https://getcomposer.org/) to install PhpSpreadsheet into your project.
+Use [composer](https://getcomposer.org/) to install PhpSpreadsheet into your project.
 Place the clones or downloaded file in htdocs folder of xampp 
 Run the xampp server
 open the index.php page
