@@ -7,7 +7,7 @@ Clone the repository or download the zip file
 1. PHP5.6+
 2. Composer
 3. Xampp Server
-3.Database (MySQL/MariaDB or PostgreSQL)
+4.Database (MySQL/MariaDB or PostgreSQL)
 # Installing
 Use [composer](https://getcomposer.org/) to install PhpSpreadsheet into your project.
 Place the clones or downloaded file in htdocs folder of xampp 
